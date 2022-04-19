@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    font-family: 'Raleway', sans-serif;
+}
+
+body {
+    width: 70%;
+    background-color: whitesmoke;
+}
+
+h1 {
+    font-size: 40px;
+    font-family: 'Orelega One', cursive;
+}
+
+img {
+    height: auto;
+    width: 300px;
+    border-radius: 10px;
+}
+
+figcaption {
+    font-style: italic;
+    font-size: 14px;
+    padding: 5px 2px;
+}
+
+a {
+    text-decoration: none;
+}
+
+section {
+    margin: 20px 10px;
+}
+
+figure {
+    margin: 10px auto;
+}
